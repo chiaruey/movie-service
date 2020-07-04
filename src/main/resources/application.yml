@@ -1,0 +1,8 @@
+themoviedb:
+   url: https://api.themoviedb.org/3
+   api.key: ${THEMOVIEDB_API_KEY}
+   
+logging: 
+   level.root: INFO
+   level.com: INFO
+   
